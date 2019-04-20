@@ -5,11 +5,10 @@ A terminal shell for executing commands on the server.
 It can be run standalone or via the Terminal panel in Tracy Debugger.
 
 ### Support Forum
-For support for this module, please visit this thread on the ProcessWire forum:
+For support for this module, please visit this thread on the ProcessWire forum: https://processwire.com/talk/topic/21311-processterminal/
 
 ### ProcessWire Modules Directory
-
-
+http://modules.processwire.com/modules/process-terminal/
 
 
 ### License
