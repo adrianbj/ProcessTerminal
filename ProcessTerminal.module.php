@@ -7,7 +7,7 @@ class ProcessTerminal extends Process implements Module {
             'summary' => __('Terminal shell.', __FILE__),
             'author' => 'Adrian Jones',
             'href' => 'https://processwire.com/talk/topic/12208-tracy-debugger/',
-            'version' => '1.0.0',
+            'version' => '1.0.1',
             'autoload' => false,
             'singular' => true,
             'icon' => 'terminal',
